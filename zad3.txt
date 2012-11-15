@@ -1,0 +1,1 @@
+﻿- do istniejącej bazy osób zawierającej prostą bazę obietków klasy Persondopisać kod realizujący pełen CRUD

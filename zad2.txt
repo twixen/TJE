@@ -1,0 +1,2 @@
+﻿- stworzyć stronę z formularzem (input, select, checkbox, radiobutton, ...) i stronę odpowiadającą na request napisaną w JSP 
+- napisać przykład strony w JSP wykorzystującej JavaBeans zademonstrować działanie zakresów w jsp:useBean

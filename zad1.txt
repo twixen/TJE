@@ -1,0 +1,3 @@
+﻿- stworzyć stronę formularzem zawierającą input, select, checkbox, radiobutton, ... .
+- pobieranie danych z formularza (zwłaszacza pola multiwyboru) stworzyć dwie strony: 1) wypełniamy formularz 2) odpowiedź po wypełnieniu
+- zabawa z sesjami i application context napisać zestaw stron demonstrujący działania pow.
