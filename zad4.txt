@@ -1,0 +1,4 @@
+﻿- w aplikacji jsfdemo:
+  - dostosować wygląd strony modyfikując plik css
+  - dostosować stronę do dwóch języków (lokalizacja)
+	
