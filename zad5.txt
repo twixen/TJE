@@ -1,0 +1,2 @@
+﻿w poprzedniej aplikacji:
+ - dodać utrwalanie danych
